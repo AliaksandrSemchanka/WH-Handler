@@ -3,7 +3,7 @@ const https = require('https');
 const bodyParser = require('body-parser');
 const app = express();
 
-const TelegramBot = require('node-telegram-bot-api');
+// const TelegramBot = require('node-telegram-bot-api');
 
 const API_KEY = '6255590542:AAGuf6H3YLF94gdStmr2XA9y2ELv2Ws5A90';
 const chatId = '383803334';
